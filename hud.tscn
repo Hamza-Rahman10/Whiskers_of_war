@@ -1,0 +1,50 @@
+[gd_scene load_steps=5 format=3 uid="uid://6cnhjaonn1jf"]
+
+[ext_resource type="Script" path="res://hud.gd" id="1_hld67"]
+[ext_resource type="Texture2D" uid="uid://yqa35aqpdvec" path="res://Assets/Images/Kitten.png" id="2_4gn43"]
+[ext_resource type="FontFile" uid="uid://blw0lav8u0pbb" path="res://Assets/Fonts/CalSans-Regular.ttf" id="2_mco6w"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_hp35e"]
+bg_color = Color(0, 0, 0, 0.376471)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[node name="HUD" type="CanvasLayer"]
+script = ExtResource("1_hld67")
+
+[node name="Panel" type="Panel" parent="."]
+offset_left = 31.0
+offset_top = 17.0
+offset_right = 204.0
+offset_bottom = 68.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_hp35e")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_left = 28.0
+offset_top = 15.0
+offset_right = 88.0
+offset_bottom = 75.0
+texture = ExtResource("2_4gn43")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="."]
+offset_left = 92.0
+offset_top = 24.0
+offset_right = 132.0
+offset_bottom = 63.0
+theme_override_colors/font_color = Color(0.556863, 0.572549, 0.584314, 1)
+theme_override_fonts/font = ExtResource("2_mco6w")
+theme_override_font_sizes/font_size = 30
+text = "X"
+
+[node name="PawPrintLabel" type="Label" parent="."]
+offset_left = 127.0
+offset_top = 15.0
+offset_right = 188.0
+offset_bottom = 74.0
+theme_override_colors/font_color = Color(0.556863, 0.572549, 0.584314, 1)
+theme_override_fonts/font = ExtResource("2_mco6w")
+theme_override_font_sizes/font_size = 45
+text = "##"
