@@ -1,0 +1,31 @@
+﻿Download Link:
+
+https://goldsmithscollege-my.sharepoint.com/:u:/g/personal/hrahm002_campus_goldsmiths_ac_uk/EdgSEiHr1YxMhDyQgvTpAgwBZAbRb-jISvbnwx7_imI1xQ?e=pZ4pJ6
+
+Back up:
+
+https://www.dropbox.com/scl/fi/3hfyfcqkc52jlm7ep8b7k/Whiskers-of-War-Final.zip?rlkey=4rwjuc76e8g91unhtl0766x2i&st=ninhlno8&dl=0
+
+Instructions:
+
+
+1. Download the Files from the learn.gold VLE
+2. Make sure you have godot downloaded https://godotengine.org/
+3. Once both has been download drag the unzipped “whiskers of war final” file into the godot space
+4. Double click the file
+5. Once loaded, look at the top right corner and look for a button named play scene with level_1.tscn selected
+6. Enjoy
+
+
+
+
+Controls:
+
+
+WASD to move around
+Spacebar or Enter to jump
+A and D to panel left and right
+
+
+WARNING!
+The camera may look glitchy at some points while panelling, this is due to the buildings having no collision shape thus having no camera bump interaction.
