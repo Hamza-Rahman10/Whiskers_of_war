@@ -5,6 +5,8 @@ Whiskers of War is a story-driven survival game in which players assume the role
 I created this game with the primary purpose of telling a striking story about the brutal reality and profound repercussions of war, with a focus on innocent people that suffer unjustly.  The plot develops from the unusual perspective of a determined cat on a journey to reconnect with her lost kittens amidst the turmoil and devastation of war.  Throughout the production process, I greatly appreciated the lessons supplied by the YouTube channel BornCG, whose extensive instruction and resources were invaluable in bringing this game to life.  The specific instructional series that contributed to this project is available here:
 https://www.youtube.com/@BornCG
 
+Footage: https://youtu.be/-M2NNThq6bA
+
 ![Screenshot 2025-05-08 182430](https://github.com/user-attachments/assets/ea463210-343a-41e2-9304-048e3f076841)
 ![Screenshot 2025-02-21 213056](https://github.com/user-attachments/assets/474dd0f8-0e70-4480-8706-a1a3b5c3a124)
 ![Screenshot 2025-05-09 234852](https://github.com/user-attachments/assets/c1f64a3b-b55e-42e3-8269-7921f25714db)
